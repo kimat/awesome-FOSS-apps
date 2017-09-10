@@ -75,6 +75,7 @@
 
 ### File manager
   * [Amaze](https://plus.google.com/communities/113997576965363268101) - Material design based file manager. - ([F-Droid](https://f-droid.org/packages/com.amaze.filemanager/), [Source Code](https://github.com/arpitkh96/AmazeFileManager))
+* [Ghost Commander](https://sites.google.com/site/ghostcommander1/) - Dual panel file manager, allows for plugins for SMB and FTP ([F-Droid](https://f-droid.org/packages/com.ghostsq.commander/), [Source Code](https://sourceforge.net/p/ghostcommander/code/HEAD/tree/))
 
 ### File Sync
   * [Syncthing](https://syncthing.net/) - P2P file synchronization. ([F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/), [Source Code](https://github.com/syncthing/syncthing-android))
@@ -103,6 +104,8 @@
 
 ### Games
   * Anuto TD - Tower defense game. ([F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/), [Source Code](https://github.com/reloZid/android-anuto))
+  * [Minetest](https://www.minetest.net/) - Minecraft like game, supports mods and can connect to servers. ([F-Droid](https://f-droid.org/packages/net.minetest.minetest/), [Source Code](https://github.com/minetest/minetest))
+  * Simple Solitaire Collection - Solitaire game collection with 14 games ([F-Droid](https://f-droid.org/packages/de.tobiasbielefeld.solitaire/), [Source Code](https://github.com/TobiasBielefeld/Simple-Solitaire))
 
 ### Podcasts
    * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
