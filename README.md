@@ -113,7 +113,7 @@
 
 ### YouTube
   * [NewPipe](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe))  
-  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Google (YouTube)
+  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Google (YouTube).
   * Feeder - RSS reader - works good with NewPipe, can import .opml files. ([F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/), [Source Code](https://gitlab.com/spacecowboy/Feeder))
 
 ## Navigation
@@ -183,7 +183,7 @@
   * [AndStatus](http://andstatus.org/) - Low traffic social network client. ([F-Droid](https://f-droid.org/packages/org.andstatus.app/), [Source Code](https://github.com/andstatus/andstatus))
   * [dandelion*](https://diasp.org/people/48b78420923501341ef3782bcb452bd5) - Client for dandelion*. ([F-Droid](https://f-droid.org/packages/com.github.dfa.diaspora_android/), [Source Code](https://github.com/Diaspora-for-Android/dandelion))
   * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))  
-  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Twitter
+  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Twitter.
 
 ### Reddit
   * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))  
