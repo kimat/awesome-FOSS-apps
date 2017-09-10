@@ -66,7 +66,8 @@
   * [Conversations](https://conversations.im/) - XMPP client with built-in OMEMO, OTR and OpenPGP support. ([F-Droid](https://f-droid.org/packages/eu.siacs.conversations/), [Source Code](https://github.com/siacs/Conversations))
   * [Riot](https://riot.im/) - Messenger using the Matrix protocol. ([F-Droid](https://f-droid.org/packages/im.vector.alpha/), [Source Code](https://github.com/vector-im/riot-android))
   * [Signal](https://whispersystems.org/) - End-to-End encrypted messenger, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
-  * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS))![Uses non-free networks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg): Server isn't FOSS.
+  * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS))    
+![Uses non-free networks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Server isn't FOSS.
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
 
 ## Files
@@ -111,7 +112,8 @@
    * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
 
 ### YouTube
-  * [NewPipe](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe))![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg): Connects to Google (YouTube)
+  * [NewPipe](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe))  
+  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Google (YouTube)
   * Feeder - RSS reader - works good with NewPipe, can import .opml files. ([F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/), [Source Code](https://gitlab.com/spacecowboy/Feeder))
 
 ## Navigation
@@ -180,11 +182,14 @@
 ## Social networks
   * [AndStatus](http://andstatus.org/) - Low traffic social network client. ([F-Droid](https://f-droid.org/packages/org.andstatus.app/), [Source Code](https://github.com/andstatus/andstatus))
   * [dandelion*](https://diasp.org/people/48b78420923501341ef3782bcb452bd5) - Client for dandelion*. ([F-Droid](https://f-droid.org/packages/com.github.dfa.diaspora_android/), [Source Code](https://github.com/Diaspora-for-Android/dandelion))
-  * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg): Connects to Twitter
+  * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))  
+  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Twitter
 
 ### Reddit
-  * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg): Connects to Reddit.
-  * Slide - Advanced app for reddit. ([F-Droid](https://f-droid.org/packages/me.ccrama.redditslide/), [Source Code](https://github.com/ccrama/Slide))![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg): Connects to Reddit.
+  * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))  
+  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Reddit.
+  * Slide - Advanced app for reddit. ([F-Droid](https://f-droid.org/packages/me.ccrama.redditslide/), [Source Code](https://github.com/ccrama/Slide))  
+  ![UsesNonFreeNetworks](https://img.shields.io/badge/antifeature-uses_non--free_networks-red.svg?style=flat-square) Connects to Reddit.
 
 ## Tools
   * [Termux](https://termux.com/) - Terminal emulator, addons available. ([F-Droid](https://f-droid.org/packages/com.termux/), [Source Code](https://github.com/termux/termux-app))
@@ -206,4 +211,4 @@
   * [Wikipedia](https://www.mediawiki.org/wiki/Wikimedia_Apps) - Official Wikipedia Android app. ([F-Droid](https://f-droid.org/packages/org.wikipedia/), [Source Code](https://github.com/wikimedia/apps-android-wikipedia))
 
 ## Credits
-Inspired by other [awesome lists](https://github.com/Kickball/awesome-selfhosted).
+Inspired by other [awesome lists](https://github.com/sindresorhus/awesome).
