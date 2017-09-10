@@ -33,3 +33,5 @@ In the list, insert the category with:
 ## Category name
 ```
 Make sure #category-name is identical to the actual category name (Space gets replaced with a `-`).
+
+Feel free to use emojis if you want to.
