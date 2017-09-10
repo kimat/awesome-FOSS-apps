@@ -16,6 +16,13 @@ The syntax is:
 ```markdown
   * Appname - Short description ([APK](Link to the download page of the .apk), [Source Code](Link to the source code))
 ```
+If the app uses or connects to non-free servers, includes proprietary blobs, tracks users or has other antifeatures, please make sure you want to include this app. If there's an alternative with similar features and no antifeatures, include it instead.  
+If you are sure there is no better alternative, mark those apps like this:
+```markdown
+ * Appname - Short description ([F-Droid](Link to the app on F-Droid), [Source Code](Link to the source code))  
+ ![Warning description](https://img.shields.io/badge/antifeature-antifeature--description-red.svg?style=flat-square) A few words about the antifeature.
+```
+We are using shields.io, check their website for the image URL syntax if you stumble upon problems.
 
 If you want to add another category, use the following syntax:
 ```markdown
