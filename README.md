@@ -137,9 +137,6 @@
   * Feeder - RSS reader - works good with NewPipe, can import .opml files. ([F-Droid](https://f-droid.org/packages/com.nononsenseapps.feeder/), [Source Code](https://gitlab.com/spacecowboy/Feeder))
   * spaRSS - Feed reader. ([F-Droid](https://f-droid.org/packages/net.etuldan.sparss.floss/), [Source Code](https://github.com/Etuldan/spaRSS))
 
-## Notes
- * Markor - Simple Markdown editor with renderer. ([F-Droid](https://f-droid.org/packages/net.gsantner.markor/), [Source Code](https://github.com/gsantner/markor))
-
 ## Organizing
 
 ### Calendar
@@ -151,6 +148,7 @@
   * Etar - material design based calendar, uses Android Calendar sync. ([F-Droid](https://f-droid.org/packages/ws.xsoh.etar/), [Source Code](https://github.com/Etar-Group/Etar-Calendar))
 
 ### Notes
+  * Markor - Simple Markdown editor with renderer. ([F-Droid](https://f-droid.org/packages/net.gsantner.markor/), [Source Code](https://github.com/gsantner/markor))
   * SealNote - Notepad that provides encryption. ([F-Droid](https://f-droid.org/packages/com.twistedplane.sealnote/), [Source Code](https://github.com/vishesh/sealnote))
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
 
