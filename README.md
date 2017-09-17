@@ -138,6 +138,7 @@
   * spaRSS - Feed reader. ([F-Droid](https://f-droid.org/packages/net.etuldan.sparss.floss/), [Source Code](https://github.com/Etuldan/spaRSS))
 
 ## Notes
+ * Markor - Simple Markdown editor with renderer. ([F-Droid](https://f-droid.org/packages/net.gsantner.markor/), [Source Code](https://github.com/gsantner/markor))
 
 ## Organizing
 
