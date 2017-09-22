@@ -27,7 +27,6 @@
     - [VPN](#vpn)
   - [News](#news)
     - [RSS](#rss)
-  - [Notes](#notes)
   - [Organizing](#organizing)
     - [Calendar](#calendar)
       - [Offline](#offline)
