@@ -151,6 +151,7 @@
   * Markor - Simple Markdown editor with renderer. ([F-Droid](https://f-droid.org/packages/net.gsantner.markor/), [Source Code](https://github.com/gsantner/markor))
   * SealNote - Notepad that provides encryption. ([F-Droid](https://f-droid.org/packages/com.twistedplane.sealnote/), [Source Code](https://github.com/vishesh/sealnote))
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
+  * Nextcloud Notes - Client for Nextcloud notes plugins. ([F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/), [Source Code](https://github.com/stefan-niedermann/nextcloud-notes))
 
 ### Tasks
   * OpenTasks - Tasks can be synchronized using DAVDroid. ([F-Droid](https://f-droid.org/packages/org.dmfs.tasks/), [Source Code](https://github.com/dmfs/opentasks))
