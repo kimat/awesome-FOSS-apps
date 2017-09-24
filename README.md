@@ -55,7 +55,7 @@
 ## Communication
 
 ### SMS
-  * QKSMS - SMS client with advanced features. ([F-Droid](https://f-droid.org/packages/com.moez.QKSMS/), [Source Code](https://github.com/qklabs/qksms)])
+  * QKSMS - SMS client with advanced features. ([F-Droid](https://f-droid.org/packages/com.moez.QKSMS/), [Source Code](https://github.com/qklabs/qksms))
   * [Silence](https://silence.im/) - Fork of Signal, provides End-to-End encryption for SMS. ([F-Droid](https://f-droid.org/packages/org.smssecure.smssecure/), [Source Code](https://github.com/SilenceIM/Silence))
 
 ### E-Mail
