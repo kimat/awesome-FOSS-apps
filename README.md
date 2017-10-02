@@ -200,6 +200,7 @@
 
 ### Keyboard
   * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with many customization options. ([F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/), [Source Code](https://github.com/AnySoftKeyboard/AnySoftKeyboard))
+  * Hacker's Keyboard - A customizable keyboard with full layouts. ([F-Droid](https://f-droid.org/packages/org.pocketworkstation.pckeyboard/), [Source Code](https://github.com/klausw/hackerskeyboard))
 
 ### Translation
   * QuickDic - Offline translation dictionary. ([F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/), [Source Code](https://github.com/rdoeffinger/Dictionary))
