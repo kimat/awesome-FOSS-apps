@@ -20,6 +20,7 @@
     - [Audiobooks](#audiobooks)
     - [Camera](#camera)
     - [Games](#games)
+    - [Photos](#photos)
     - [Podcasts](#podcasts)
     - [YouTube](#youtube)
   - [Networking](#networking)
@@ -105,6 +106,9 @@
   * Anuto TD - Tower defense game. ([F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/), [Source Code](https://github.com/reloZid/android-anuto))
   * [Minetest](https://www.minetest.net/) - Minecraft like game, supports mods and can connect to servers. ([F-Droid](https://f-droid.org/packages/net.minetest.minetest/), [Source Code](https://github.com/minetest/minetest))
   * Simple Solitaire Collection - Solitaire game collection with 14 games ([F-Droid](https://f-droid.org/packages/de.tobiasbielefeld.solitaire/), [Source Code](https://github.com/TobiasBielefeld/Simple-Solitaire))
+
+### Photos
+  * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
 
 ### Podcasts
    * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
