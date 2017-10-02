@@ -32,6 +32,7 @@
     - [Calendar](#calendar)
       - [Offline](#offline)
       - [Online](#online)
+    - [Clock](#clock)
     - [Notes](#notes)
     - [Tasks](#tasks)
   - [PDF](#pdf)
@@ -149,6 +150,9 @@
 
 #### Online
   * Etar - material design based calendar, uses Android Calendar sync. ([F-Droid](https://f-droid.org/packages/ws.xsoh.etar/), [Source Code](https://github.com/Etar-Group/Etar-Calendar))
+
+### Clock
+  * ClockPlus - Alarm clock, timer, and stopwatch application for Android. ([F-Droid](https://f-droid.org/packages/com.philliphsu.clock2/), [Source Code](https://github.com/philliphsu/ClockPlus))
 
 ### Notes
   * Markor - Simple Markdown editor with renderer. ([F-Droid](https://f-droid.org/packages/net.gsantner.markor/), [Source Code](https://github.com/gsantner/markor))
