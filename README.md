@@ -156,6 +156,7 @@
 
 ### Notes
   * Markor - Simple Markdown editor with renderer. ([F-Droid](https://f-droid.org/packages/net.gsantner.markor/), [Source Code](https://github.com/gsantner/markor))
+  * [OmniNotes](https://federicoiosue.github.io/Omni-Notes/) - Open source note-taking application for Android. ([F-Droid](https://f-droid.org/repository/browse/?fdid=it.feio.android.omninotes.foss), [Source Code](https://github.com/federicoiosue/Omni-Notes))
   * SealNote - Notepad that provides encryption. ([F-Droid](https://f-droid.org/packages/com.twistedplane.sealnote/), [Source Code](https://github.com/vishesh/sealnote))
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
   * Nextcloud Notes - Client for Nextcloud notes plugins. ([F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/), [Source Code](https://github.com/stefan-niedermann/nextcloud-notes))
