@@ -20,6 +20,7 @@
     - [Audiobooks](#audiobooks)
     - [Camera](#camera)
     - [Games](#games)
+    - [Photos](#photos)
     - [Podcasts](#podcasts)
     - [YouTube](#youtube)
   - [Networking](#networking)
@@ -31,6 +32,7 @@
     - [Calendar](#calendar)
       - [Offline](#offline)
       - [Online](#online)
+    - [Clock](#clock)
     - [Notes](#notes)
     - [Tasks](#tasks)
   - [PDF](#pdf)
@@ -75,6 +77,7 @@
 ### File manager
   * [Amaze](https://plus.google.com/communities/113997576965363268101) - Material design based file manager. - ([F-Droid](https://f-droid.org/packages/com.amaze.filemanager/), [Source Code](https://github.com/arpitkh96/AmazeFileManager))
   * [Ghost Commander](https://sites.google.com/site/ghostcommander1/) - Dual panel file manager, allows for plugins for SMB and FTP ([F-Droid](https://f-droid.org/packages/com.ghostsq.commander/), [Source Code](https://sourceforge.net/p/ghostcommander/code/HEAD/tree/))
+  * [Simple File Manager](https://simplemobiletools.github.io/) - A simple file manager for browsing and editing files and directories. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager), [Source Code](https://github.com/SimpleMobileTools/Simple-File-Manager))
 
 ### File Sync
   * [Syncthing](https://syncthing.net/) - P2P file synchronization. ([F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/), [Source Code](https://github.com/syncthing/syncthing-android))
@@ -92,6 +95,7 @@
   * Metronome - Metronome app. ([F-Droid](https://f-droid.org/packages/tk.radioactivemineral.metronome/), [Source Code](https://github.com/waelk10/Metronome))
 
 ### Audio-/Videoplayer
+  * [Simple Music Player](https://simplemobiletools.github.io/) - A clean music player with a customizable widget. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.musicplayer), [Source Code](https://github.com/SimpleMobileTools/Simple-Music-Player))
   * [Vanilla Music](http://vanillamusic.io/) - Material Design music player, addons available. ([F-Droid](https://f-droid.org/packages/ch.blinkenlights.android.vanilla/), [Source Code](https://github.com/vanilla-music/vanilla))
   * [VLC](https://www.videolan.org/vlc/download-android.html) - VLC media player. (Available in the F-Droid archive, [APK](https://get.videolan.org/vlc-android/2.0.6/),  [Source Code](https://code.videolan.org/videolan/vlc-android))
 
@@ -105,6 +109,10 @@
   * Anuto TD - Tower defense game. ([F-Droid](https://f-droid.org/packages/ch.logixisland.anuto/), [Source Code](https://github.com/reloZid/android-anuto))
   * [Minetest](https://www.minetest.net/) - Minecraft like game, supports mods and can connect to servers. ([F-Droid](https://f-droid.org/packages/net.minetest.minetest/), [Source Code](https://github.com/minetest/minetest))
   * Simple Solitaire Collection - Solitaire game collection with 14 games ([F-Droid](https://f-droid.org/packages/de.tobiasbielefeld.solitaire/), [Source Code](https://github.com/TobiasBielefeld/Simple-Solitaire))
+
+### Photos
+  * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
+  * [Simple Gallery](https://simplemobiletools.github.io/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
 
 ### Podcasts
    * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
@@ -142,13 +150,19 @@
 
 #### Offline
   * [Offline Calendar](https://www.schuermann.eu/android/) - Calendar app, completely offline. ([F-Droid](https://f-droid.org/packages/org.sufficientlysecure.localcalendar/), [Source Code](https://github.com/PrivacyApps/offline-calendar))
+  * [Simple Calendar](https://simplemobiletools.github.io/) - A simple calendar with events and a customizable widget without any other calendar integration. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 #### Online
   * Etar - material design based calendar, uses Android Calendar sync. ([F-Droid](https://f-droid.org/packages/ws.xsoh.etar/), [Source Code](https://github.com/Etar-Group/Etar-Calendar))
 
+### Clock
+  * ClockPlus - Alarm clock, timer, and stopwatch application for Android. ([F-Droid](https://f-droid.org/packages/com.philliphsu.clock2/), [Source Code](https://github.com/philliphsu/ClockPlus))
+
 ### Notes
   * Markor - Simple Markdown editor with renderer. ([F-Droid](https://f-droid.org/packages/net.gsantner.markor/), [Source Code](https://github.com/gsantner/markor))
+  * [OmniNotes](https://federicoiosue.github.io/Omni-Notes/) - Open source note-taking application for Android. ([F-Droid](https://f-droid.org/repository/browse/?fdid=it.feio.android.omninotes.foss), [Source Code](https://github.com/federicoiosue/Omni-Notes))
   * SealNote - Notepad that provides encryption. ([F-Droid](https://f-droid.org/packages/com.twistedplane.sealnote/), [Source Code](https://github.com/vishesh/sealnote))
+  * [Simple Notes](https://simplemobiletools.github.io/) - A simple textfield for adding quick notes without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.notes), [Source Code](https://github.com/SimpleMobileTools/Simple-Notes))
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
   * Nextcloud Notes - Client for Nextcloud notes plugins. ([F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/), [Source Code](https://github.com/stefan-niedermann/nextcloud-notes))
 
@@ -191,11 +205,13 @@
 
 ### Keyboard
   * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with many customization options. ([F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/), [Source Code](https://github.com/AnySoftKeyboard/AnySoftKeyboard))
+  * Hacker's Keyboard - A customizable keyboard with full layouts. ([F-Droid](https://f-droid.org/packages/org.pocketworkstation.pckeyboard/), [Source Code](https://github.com/klausw/hackerskeyboard))
 
 ### Translation
   * QuickDic - Offline translation dictionary. ([F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/), [Source Code](https://github.com/rdoeffinger/Dictionary))
 
 ## Weather
+  * Good Weather - Open source weather app for Android. ([F-Droid](https://f-droid.org/repository/browse/?fdid=org.asdtm.goodweather), [Source Code](https://github.com/qqq3/good-weather))
   * Weather - Provides interface for several weather websites. ([F-Droid](https://f-droid.org/packages/de.baumann.weather/), [Source Code](https://github.com/scoute-dich/Weather))
 
 ## Web Browsing
