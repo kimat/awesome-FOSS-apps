@@ -124,7 +124,8 @@
 
 ### Maps
   * [OsmAnd~](http://osmand.net/) - OpenStreetMap client. ([F-Droid](https://f-droid.org/packages/net.osmand.plus/), [Source Code](https://github.com/osmandapp/Osmand))
-
+  * [MAPS.ME](https://maps.me/) - OpenSteetMap client. ([Source Code](https://github.com/mapsme/omim))
+  
 ### Public transportation
   * [Transportr](https://transportr.grobox.de/) - Public transport app. ([F-Droid](https://f-droid.org/packages/de.grobox.liberario/), [Source Code](https://github.com/grote/Transportr))
 
