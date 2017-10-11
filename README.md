@@ -202,6 +202,7 @@
 ## Tools
   * [Termux](https://termux.com/) - Terminal emulator, addons available. ([F-Droid](https://f-droid.org/packages/com.termux/), [Source Code](https://github.com/termux/termux-app))
   * [SatStat](http://mvglasow.github.io/satstat/index.html) - Read device sensors. ([F-Droid](https://f-droid.org/packages/com.vonglasow.michael.satstat/), [Source Code](https://github.com/mvglasow/satstat))
+  * [ConnectBot](https://connectbot.org/) - SSH and Telnet client. [F-Droid](https://f-droid.org/packages/org.connectbot/) [Source Code](https://github.com/connectbot/connectbot)
 
 ### Keyboard
   * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with many customization options. ([F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/), [Source Code](https://github.com/AnySoftKeyboard/AnySoftKeyboard))
