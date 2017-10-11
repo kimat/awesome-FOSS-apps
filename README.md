@@ -69,6 +69,7 @@
   * [Signal](https://whispersystems.org/) - End-to-End encrypted messenger, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
   * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server isn't FOSS.
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
+  * [QuasselDroid](https://github.com/sandsmark/QuasselDroid) - Quassel Client (IRC) for android [F-Droid](https://f-droid.org/packages/com.iskrembilen.quasseldroid/)
 
 ## Files
 ### Backups
