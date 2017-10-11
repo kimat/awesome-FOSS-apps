@@ -213,6 +213,7 @@
   * QuickDic - Offline translation dictionary. ([F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/), [Source Code](https://github.com/rdoeffinger/Dictionary))
 
 ## Weather
+  * Forecastie - Shows weather information from OpenWeatherMap. ([F-Droid](https://f-droid.org/packages/cz.martykan.forecastie/), [Source Code](https://github.com/martykan/forecastie))
   * Good Weather - Open source weather app for Android. ([F-Droid](https://f-droid.org/repository/browse/?fdid=org.asdtm.goodweather), [Source Code](https://github.com/qqq3/good-weather))
   * Weather - Provides interface for several weather websites. ([F-Droid](https://f-droid.org/packages/de.baumann.weather/), [Source Code](https://github.com/scoute-dich/Weather))
 
