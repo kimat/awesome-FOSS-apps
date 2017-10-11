@@ -151,10 +151,10 @@
 
 #### Offline
   * [Offline Calendar](https://www.schuermann.eu/android/) - Calendar app, completely offline. ([F-Droid](https://f-droid.org/packages/org.sufficientlysecure.localcalendar/), [Source Code](https://github.com/PrivacyApps/offline-calendar))
-  * [Simple Calendar](https://simplemobiletools.github.io/) - A simple calendar with events and a customizable widget without any other calendar integration. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 #### Online
   * Etar - material design based calendar, uses Android Calendar sync. ([F-Droid](https://f-droid.org/packages/ws.xsoh.etar/), [Source Code](https://github.com/Etar-Group/Etar-Calendar))
+  * [Simple Calendar](https://simplemobiletools.github.io/) - A simple calendar with optional CalDAV sync. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 ### Clock
   * ClockPlus - Alarm clock, timer, and stopwatch application for Android. ([F-Droid](https://f-droid.org/packages/com.philliphsu.clock2/), [Source Code](https://github.com/philliphsu/ClockPlus))
