@@ -57,6 +57,7 @@
 ## Communication
 
 ### SMS
+  * [Signal](https://signal.org/) - End-to-End encrypted messenger with SMS fallback, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
   * QKSMS - SMS client with advanced features. ([F-Droid](https://f-droid.org/packages/com.moez.QKSMS/), [Source Code](https://github.com/qklabs/qksms))
   * [Silence](https://silence.im/) - Fork of Signal, provides End-to-End encryption for SMS. ([F-Droid](https://f-droid.org/packages/org.smssecure.smssecure/), [Source Code](https://github.com/SilenceIM/Silence))
 
@@ -65,9 +66,9 @@
 
 ### Instant Messaging
   * [Conversations](https://conversations.im/) - XMPP client with built-in OMEMO, OTR and OpenPGP support. ([F-Droid](https://f-droid.org/packages/eu.siacs.conversations/), [Source Code](https://github.com/siacs/Conversations))
+  * [Riot](https://riot.im/) - Messenger using the Matrix protocol. ([F-Droid](https://f-droid.org/packages/im.vector.alpha/), [Source Code](https://github.com/vector-im/riot-android))
   * [QuasselDroid](https://github.com/sandsmark/QuasselDroid) - Quassel Client (IRC) for android ([F-Droid](https://f-droid.org/packages/com.iskrembilen.quasseldroid/))
-* [Riot](https://riot.im/) - Messenger using the Matrix protocol. ([F-Droid](https://f-droid.org/packages/im.vector.alpha/), [Source Code](https://github.com/vector-im/riot-android))
-  * [Signal](https://whispersystems.org/) - End-to-End encrypted messenger, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
+  * [Signal](https://signal.org/) - End-to-End encrypted messenger with SMS fallback, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
   * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server isn't FOSS.
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
 
@@ -125,8 +126,9 @@
 ## Navigation
 
 ### Maps
+  * [MAPS.ME](https://maps.me/) - OpenSteetMap client. ([Source Code](https://github.com/mapsme/omim))
   * [OsmAnd~](http://osmand.net/) - OpenStreetMap client. ([F-Droid](https://f-droid.org/packages/net.osmand.plus/), [Source Code](https://github.com/osmandapp/Osmand))
-
+  
 ### Public transportation
   * [Transportr](https://transportr.grobox.de/) - Public transport app. ([F-Droid](https://f-droid.org/packages/de.grobox.liberario/), [Source Code](https://github.com/grote/Transportr))
 
@@ -152,10 +154,10 @@
 
 #### Offline
   * [Offline Calendar](https://www.schuermann.eu/android/) - Calendar app, completely offline. ([F-Droid](https://f-droid.org/packages/org.sufficientlysecure.localcalendar/), [Source Code](https://github.com/PrivacyApps/offline-calendar))
-  * [Simple Calendar](https://simplemobiletools.github.io/) - A simple calendar with events and a customizable widget without any other calendar integration. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 #### Online
   * Etar - material design based calendar, uses Android Calendar sync. ([F-Droid](https://f-droid.org/packages/ws.xsoh.etar/), [Source Code](https://github.com/Etar-Group/Etar-Calendar))
+  * [Simple Calendar](https://simplemobiletools.github.io/) - A simple calendar with optional CalDAV sync. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.calendar), [Source Code](https://github.com/SimpleMobileTools/Simple-Calendar))
 
 ### Clock
   * ClockPlus - Alarm clock, timer, and stopwatch application for Android. ([F-Droid](https://f-droid.org/packages/com.philliphsu.clock2/), [Source Code](https://github.com/philliphsu/ClockPlus))
@@ -206,6 +208,7 @@
   * [SatStat](http://mvglasow.github.io/satstat/index.html) - Read device sensors. ([F-Droid](https://f-droid.org/packages/com.vonglasow.michael.satstat/), [Source Code](https://github.com/mvglasow/satstat))
   * [Termux](https://termux.com/) - Terminal emulator, addons available. ([F-Droid](https://f-droid.org/packages/com.termux/), [Source Code](https://github.com/termux/termux-app))
   * TV KILL - Turn off TVs with your Android device's IR-blaster. ([F-Droid](https://f-droid.org/app/com.redirectapps.tvkill), [Source Code](https://github.com/42SK/TVKILL))
+  * [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) - Scans WiFi networks, measuring signal strength and identifying crowded channels in tables and graphs. ([F-Droid](https://f-droid.org/packages/com.vrem.wifianalyzer/), [Source Code](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer))
 
 
 ### Keyboard
@@ -216,6 +219,7 @@
   * QuickDic - Offline translation dictionary. ([F-Droid](https://f-droid.org/packages/de.reimardoeffinger.quickdic/), [Source Code](https://github.com/rdoeffinger/Dictionary))
 
 ## Weather
+  * Forecastie - Shows weather information from OpenWeatherMap. ([F-Droid](https://f-droid.org/packages/cz.martykan.forecastie/), [Source Code](https://github.com/martykan/forecastie))
   * Good Weather - Open source weather app for Android. ([F-Droid](https://f-droid.org/repository/browse/?fdid=org.asdtm.goodweather), [Source Code](https://github.com/qqq3/good-weather))
   * Weather - Provides interface for several weather websites. ([F-Droid](https://f-droid.org/packages/de.baumann.weather/), [Source Code](https://github.com/scoute-dich/Weather))
 
