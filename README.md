@@ -65,12 +65,14 @@
 
 ### Instant Messaging
   * [Conversations](https://conversations.im/) - XMPP client with built-in OMEMO, OTR and OpenPGP support. ([F-Droid](https://f-droid.org/packages/eu.siacs.conversations/), [Source Code](https://github.com/siacs/Conversations))
-  * [Riot](https://riot.im/) - Messenger using the Matrix protocol. ([F-Droid](https://f-droid.org/packages/im.vector.alpha/), [Source Code](https://github.com/vector-im/riot-android))
+  * [QuasselDroid](https://github.com/sandsmark/QuasselDroid) - Quassel Client (IRC) for android ([F-Droid](https://f-droid.org/packages/com.iskrembilen.quasseldroid/))
+* [Riot](https://riot.im/) - Messenger using the Matrix protocol. ([F-Droid](https://f-droid.org/packages/im.vector.alpha/), [Source Code](https://github.com/vector-im/riot-android))
   * [Signal](https://whispersystems.org/) - End-to-End encrypted messenger, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
   * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server isn't FOSS.
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
 
 ## Files
+
 ### Backups
  * oandbackup - Can backup and restore apps. Backups can be encrypted with PGP. Needs root. ([F-Droid](https://f-droid.org/packages/dk.jens.backup/), [Source Code](https://github.com/jensstein/oandbackup))
 
@@ -200,9 +202,11 @@
   * Slide - Advanced app for reddit. ([F-Droid](https://f-droid.org/packages/me.ccrama.redditslide/), [Source Code](https://github.com/ccrama/Slide))
 
 ## Tools
-  * [Termux](https://termux.com/) - Terminal emulator, addons available. ([F-Droid](https://f-droid.org/packages/com.termux/), [Source Code](https://github.com/termux/termux-app))
+  * [ConnectBot](https://connectbot.org/) - SSH and Telnet client. [F-Droid](https://f-droid.org/packages/org.connectbot/) [Source Code](https://github.com/connectbot/connectbot)
   * [SatStat](http://mvglasow.github.io/satstat/index.html) - Read device sensors. ([F-Droid](https://f-droid.org/packages/com.vonglasow.michael.satstat/), [Source Code](https://github.com/mvglasow/satstat))
+  * [Termux](https://termux.com/) - Terminal emulator, addons available. ([F-Droid](https://f-droid.org/packages/com.termux/), [Source Code](https://github.com/termux/termux-app))
   * TV KILL - Turn off TVs with your Android device's IR-blaster. ([F-Droid](https://f-droid.org/app/com.redirectapps.tvkill), [Source Code](https://github.com/42SK/TVKILL))
+
 
 ### Keyboard
   * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with many customization options. ([F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/), [Source Code](https://github.com/AnySoftKeyboard/AnySoftKeyboard))
