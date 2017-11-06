@@ -195,6 +195,7 @@
 
 ### Password management
   * KeePass2Android - Advanced implementation of the KeePass standard on Android. ([APK](https://keepass2android.codeplex.com/releases), [Source Code](https://keepass2android.codeplex.com/))
+  * Password Store - Password manager compatible with [pass](http://www.passwordstore.org/). ([F-Droid](https://f-droid.org/packages/com.zeapo.pwdstore/), [Source Code](https://github.com/zeapo/Android-Password-Store))
 
 ### Two-Factor Auth.
   * andOTP - Provides TOTP, can backup and restore keys encrypted (PGP or Password). ([F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/), [Source Code](https://github.com/flocke/andOTP))
