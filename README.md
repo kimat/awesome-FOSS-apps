@@ -243,6 +243,7 @@
   * Forecastie - Shows weather information from OpenWeatherMap. ([F-Droid](https://f-droid.org/packages/cz.martykan.forecastie/), [Source Code](https://github.com/martykan/forecastie))
   * Good Weather - Open source weather app for Android. ([F-Droid](https://f-droid.org/repository/browse/?fdid=org.asdtm.goodweather), [Source Code](https://github.com/qqq3/good-weather))
   * Weather - Provides interface for several weather websites. ([F-Droid](https://f-droid.org/packages/de.baumann.weather/), [Source Code](https://github.com/scoute-dich/Weather))
+  * Simple Weather - Shows weather information from OpenWeatherMap. ([F-Droid](https://f-droid.org/packages/com.a5corp.weather/), [Source Code](https://github.com/Sparker0i/Weather))
 
 ## Web Browsing
   * Fennec F-Droid - Rebranded version of Firefox for F-Droid. ([F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/), [Source Code](http://hg.mozilla.org/))
