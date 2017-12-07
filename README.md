@@ -230,7 +230,7 @@
   * TV KILL - Turn off TVs with your Android device's IR-blaster. ([F-Droid](https://f-droid.org/app/com.redirectapps.tvkill), [Source Code](https://github.com/42SK/TVKILL))
   * [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) - Scans WiFi networks, measuring signal strength and identifying crowded channels in tables and graphs. ([F-Droid](https://f-droid.org/packages/com.vrem.wifianalyzer/), [Source Code](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer))
   * Share to Clipboard - Copy to clipboard straight from the Android "Share" menu. ([F-Droid](https://f-droid.org/packages/com.tengu.sharetoclipboard/), [Source Code](https://github.com/tengusw/share_to_clipboard))
-
+  * [OctoDroid](https://slapperwan.github.io/gh4a/) - GitHub Client. ([F-Droid](https://f-droid.org/packages/com.gh4a/), [Source Code](https://github.com/slapperwan/gh4a)
 
 ### Keyboard
   * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with many customization options. ([F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/), [Source Code](https://github.com/AnySoftKeyboard/AnySoftKeyboard))
