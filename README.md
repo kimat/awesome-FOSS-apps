@@ -196,6 +196,7 @@
 
 ## Privacy
   * [Wi-Fi Privacy Police](http://www.brambonne.com/) - Prevents sending of known Wi-Fi networks. ([F-Droid](https://f-droid.org/packages/be.uhasselt.privacypolice/), [Source Code](https://github.com/BramBonne/privacypolice))
+  * DNS66 - DNS66 allows blocking host names via DNS. ([F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/), [Source Code](https://github.com/julian-klode/dns66))
 
 ## Security
 
