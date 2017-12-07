@@ -207,6 +207,9 @@
   * [AndStatus](http://andstatus.org/) - Low traffic social network client. ([F-Droid](https://f-droid.org/packages/org.andstatus.app/), [Source Code](https://github.com/andstatus/andstatus))
   * [dandelion*](https://diasp.org/people/48b78420923501341ef3782bcb452bd5) - Client for dandelion*. ([F-Droid](https://f-droid.org/packages/com.github.dfa.diaspora_android/), [Source Code](https://github.com/Diaspora-for-Android/dandelion))
   * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))
+  
+### Facebook
+  * Face Slim - Unofficial app built around the mobile Facebook site. ([F-Droid](https://f-droid.org/packages/org.indywidualni.fblite/), [Source Code](https://github.com/indywidualny/FaceSlim)] :warning: Connects to Facebook.
 
 ### Reddit
   * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))
