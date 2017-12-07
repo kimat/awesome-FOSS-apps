@@ -6,6 +6,7 @@
     - [SMS](#sms)
     - [E-Mail](#e-mail)
     - [Instant Messaging](#instant-messaging)
+  - [Connecticity](#connectivity)
   - [Files](#files)
       - [Backups](#backups)
       - [File manager](#file-manager)
@@ -71,10 +72,15 @@
   * [Signal](https://signal.org/) - End-to-End encrypted messenger with SMS fallback, needs phone number. ([non-free APK](https://signal.org/android/apk), [Source Code](https://github.com/WhisperSystems/Signal-Android))
   * [Telegram](https://telegram.org/) - Messenger, needs phone number. ([F-Droid](https://f-droid.org/packages/org.telegram.messenger/), [Source Code](https://github.com/Telegram-FOSS-Team/Telegram-FOSS)) :warning: Server isn't FOSS.
   * [Wire](https://wire.com/) - End-to-End encrypted messenger, doesn't need a phone number. ([non-free APK](https://wire.com/en/download/), [Source Code](https://github.com/wireapp/wire-android))
+  
+## Connectivity
+  * [GadgetBridge](https://gadgetbridge.org/) - Use your Pebble/Mi Band/Amazfit Bip/Hplus device without the vendor's closed source application ([F-Droid](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/), [Source Code](https://github.com/Freeyourgadget/Gadgetbridge))
+  * [KDE Connect](https://albertvaka.wordpress.com/) - Integrate Android with the KDE Plasma Desktop. ([F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/), [Source Code](https://cgit.kde.org/kdeconnect-android.git/))
 
 ## Files
 
 ### Backups
+ * [DAVDroid](https://davdroid.bitfire.at/) - Synchronize contacts and calendar data with a webdav-supported server ([F-Droid](https://f-droid.org/packages/at.bitfire.davdroid/), [Source Code](https://gitlab.com/bitfireAT/davdroid))
  * oandbackup - Can backup and restore apps. Backups can be encrypted with PGP. Needs root. ([F-Droid](https://f-droid.org/packages/dk.jens.backup/), [Source Code](https://github.com/jensstein/oandbackup))
 
 ### File manager
@@ -189,6 +195,7 @@
 
 ### Password management
   * KeePass2Android - Advanced implementation of the KeePass standard on Android. ([APK](https://keepass2android.codeplex.com/releases), [Source Code](https://keepass2android.codeplex.com/))
+  * Password Store - Password manager compatible with [pass](http://www.passwordstore.org/). ([F-Droid](https://f-droid.org/packages/com.zeapo.pwdstore/), [Source Code](https://github.com/zeapo/Android-Password-Store))
 
 ### Two-Factor Auth.
   * andOTP - Provides TOTP, can backup and restore keys encrypted (PGP or Password). ([F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/), [Source Code](https://github.com/flocke/andOTP))
