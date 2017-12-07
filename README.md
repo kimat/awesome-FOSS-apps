@@ -122,6 +122,7 @@
 ### Photos
   * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
   * [Simple Gallery](https://simplemobiletools.github.io/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
+  * A Photo Manager - Manage local photos: Find/Copy/Edit-Exif and show in Gallery or Map. ((F-Droid](https://f-droid.org/packages/de.k3b.android.androFotoFinder/), [Source Code](https://github.com/k3b/APhotoManager))
 
 ### Podcasts
    * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
