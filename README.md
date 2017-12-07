@@ -128,6 +128,7 @@
 
 ### YouTube
   * [NewPipe](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe)) :warning: Connects to Google (YouTube).
+  * [SkyTube](http://skytube-app.com/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/free.rm.skytube.oss/), [Source Code](https://github.com/ram-on/SkyTube) :warning: Connects to Google (YouTube).
 
 ## Navigation
 
