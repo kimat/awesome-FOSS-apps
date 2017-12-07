@@ -122,7 +122,7 @@
 ### Photos
   * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
   * [Simple Gallery](https://simplemobiletools.github.io/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
-  * A Photo Manager - Manage local photos: Find/Copy/Edit-Exif and show in Gallery or Map. ((F-Droid](https://f-droid.org/packages/de.k3b.android.androFotoFinder/), [Source Code](https://github.com/k3b/APhotoManager))
+  * A Photo Manager - Manage local photos: Find/Copy/Edit-Exif and show in Gallery or Map. ([F-Droid](https://f-droid.org/packages/de.k3b.android.androFotoFinder/), [Source Code](https://github.com/k3b/APhotoManager))
 
 ### Podcasts
    * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
@@ -177,6 +177,7 @@
   * [Simple Notes](https://simplemobiletools.github.io/) - A simple textfield for adding quick notes without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.notes), [Source Code](https://github.com/SimpleMobileTools/Simple-Notes))
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
   * Nextcloud Notes - Client for Nextcloud notes plugins. ([F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/), [Source Code](https://github.com/stefan-niedermann/nextcloud-notes))
+  * Orgzly - Outliner for notes and tasks in plain-text. ([F-Droid](https://f-droid.org/packages/com.orgzly/), [Source Code](https://github.com/orgzly/orgzly-android))
 
 ### Tasks
   * OpenTasks - Tasks can be synchronized using DAVDroid. ([F-Droid](https://f-droid.org/packages/org.dmfs.tasks/), [Source Code](https://github.com/dmfs/opentasks))
