@@ -183,6 +183,7 @@
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
   * Nextcloud Notes - Client for Nextcloud notes plugins. ([F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/), [Source Code](https://github.com/stefan-niedermann/nextcloud-notes))
   * Orgzly - Outliner for notes and tasks in plain-text. ([F-Droid](https://f-droid.org/packages/com.orgzly/), [Source Code](https://github.com/orgzly/orgzly-android))
+  * [Standard Notes](https://standardnotes.org/) - Encrypted Cloud-based Notes. Cross-platform. ([APK](https://github.com/standardnotes/mobile/releases), [Source Code](https://github.com/standardnotes/mobile))
 
 ### Tasks
   * OpenTasks - Tasks can be synchronized using DAVDroid. ([F-Droid](https://f-droid.org/packages/org.dmfs.tasks/), [Source Code](https://github.com/dmfs/opentasks))
