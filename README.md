@@ -224,6 +224,7 @@
   * [Termux](https://termux.com/) - Terminal emulator, addons available. ([F-Droid](https://f-droid.org/packages/com.termux/), [Source Code](https://github.com/termux/termux-app))
   * TV KILL - Turn off TVs with your Android device's IR-blaster. ([F-Droid](https://f-droid.org/app/com.redirectapps.tvkill), [Source Code](https://github.com/42SK/TVKILL))
   * [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) - Scans WiFi networks, measuring signal strength and identifying crowded channels in tables and graphs. ([F-Droid](https://f-droid.org/packages/com.vrem.wifianalyzer/), [Source Code](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer))
+  * Share to Clipboard - Copy to clipboard straight from the Android "Share" menu. ([F-Droid](https://f-droid.org/packages/com.tengu.sharetoclipboard/), [Source Code](https://github.com/tengusw/share_to_clipboard))
 
 
 ### Keyboard
