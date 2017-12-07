@@ -6,7 +6,7 @@
     - [SMS](#sms)
     - [E-Mail](#e-mail)
     - [Instant Messaging](#instant-messaging)
-  - [Connecticity](#connectivity)
+  - [Connectivity](#connectivity)
   - [Files](#files)
       - [Backups](#backups)
       - [File manager](#file-manager)
