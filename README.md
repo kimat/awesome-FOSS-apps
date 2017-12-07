@@ -9,8 +9,9 @@
   - [Connectivity](#connectivity)
   - [Files](#files)
       - [Backups](#backups)
-      - [File manager](#file-manager)
+      - [File Manager](#file-manager)
       - [File Sync](#file-sync)
+	  - [File Transfer](#file-transfer)
       - [Storage Tools](#storage-tools)
   - [Finance](#finance)
   - [Navigation](#navigation)
@@ -84,7 +85,7 @@
  * [DAVDroid](https://davdroid.bitfire.at/) - Synchronize contacts and calendar data with a webdav-supported server ([F-Droid](https://f-droid.org/packages/at.bitfire.davdroid/), [Source Code](https://gitlab.com/bitfireAT/davdroid))
  * oandbackup - Can backup and restore apps. Backups can be encrypted with PGP. Needs root. ([F-Droid](https://f-droid.org/packages/dk.jens.backup/), [Source Code](https://github.com/jensstein/oandbackup))
 
-### File manager
+### File Manager
   * [Amaze](https://plus.google.com/communities/113997576965363268101) - Material design based file manager. - ([F-Droid](https://f-droid.org/packages/com.amaze.filemanager/), [Source Code](https://github.com/arpitkh96/AmazeFileManager))
   * [Ghost Commander](https://sites.google.com/site/ghostcommander1/) - Dual panel file manager, allows for plugins for SMB and FTP ([F-Droid](https://f-droid.org/packages/com.ghostsq.commander/), [Source Code](https://sourceforge.net/p/ghostcommander/code/HEAD/tree/))
   * [Simple File Manager](https://simplemobiletools.github.io/) - A simple file manager for browsing and editing files and directories. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager), [Source Code](https://github.com/SimpleMobileTools/Simple-File-Manager))
@@ -92,6 +93,8 @@
 ### File Sync
   * [Syncthing](https://syncthing.net/) - P2P file synchronization. ([F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/), [Source Code](https://github.com/syncthing/syncthing-android))
 
+### File Transfer
+  
 ### Storage Tools
   * DiskUsage - Shows storage usage. ([F-Droid](https://f-droid.org/packages/com.google.android.diskusage/), [Source Code](https://github.com/IvanVolosyuk/diskusage))
   * SD Scanner - Rescan the storage for new media. ([F-Droid](https://f-droid.org/packages/com.gmail.jerickson314.sdscanner/), [Source Code](https://github.com/jerickson314/sdscanner))
