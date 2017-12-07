@@ -141,6 +141,7 @@
 ### Maps
   * [MAPS.ME](https://maps.me/) - OpenSteetMap client. ([Source Code](https://github.com/mapsme/omim))
   * [OsmAnd~](http://osmand.net/) - OpenStreetMap client. ([F-Droid](https://f-droid.org/packages/net.osmand.plus/), [Source Code](https://github.com/osmandapp/Osmand))
+  * AddresstoGPS - Search for an address, location, or area using the Google Maps javascript API via AddressToGPS.com to use with other maps apps. ([F-Droid](https://f-droid.org/packages/me.danielbarnett.addresstogps/), [Source Code](https://github.com/DanielBarnett714/AddressToGPS))
   
 ### Public transportation
   * [Transportr](https://transportr.grobox.de/) - Public transport app. ([F-Droid](https://f-droid.org/packages/de.grobox.liberario/), [Source Code](https://github.com/grote/Transportr))
