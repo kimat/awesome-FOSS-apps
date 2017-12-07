@@ -128,7 +128,7 @@
 
 ### YouTube
   * [NewPipe](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe)) :warning: Connects to Google (YouTube).
-  * [SkyTube](http://skytube-app.com/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/free.rm.skytube.oss/), [Source Code](https://github.com/ram-on/SkyTube) :warning: Connects to Google (YouTube).
+  * [SkyTube](http://skytube-app.com/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/free.rm.skytube.oss/), [Source Code](https://github.com/ram-on/SkyTube)) :warning: Connects to Google (YouTube).
 
 ## Navigation
 
@@ -197,7 +197,7 @@
 ### Password management
   * KeePass2Android - Advanced implementation of the KeePass standard on Android. ([APK](https://keepass2android.codeplex.com/releases), [Source Code](https://keepass2android.codeplex.com/))
   * Password Store - Password manager compatible with [pass](http://www.passwordstore.org/). ([F-Droid](https://f-droid.org/packages/com.zeapo.pwdstore/), [Source Code](https://github.com/zeapo/Android-Password-Store))
-  * [KeePassDroid](http://www.keepassdroid.com/) - A password safe, compatible with KeePass. ([F-Droid](https://f-droid.org/packages/com.android.keepass/), [Source Code](https://github.com/bpellin/keepassdroid)
+  * [KeePassDroid](http://www.keepassdroid.com/) - A password safe, compatible with KeePass. ([F-Droid](https://f-droid.org/packages/com.android.keepass/), [Source Code](https://github.com/bpellin/keepassdroid))
 
 ### Two-Factor Auth.
   * andOTP - Provides TOTP, can backup and restore keys encrypted (PGP or Password). ([F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/), [Source Code](https://github.com/flocke/andOTP))
@@ -209,7 +209,7 @@
   * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))
   
 ### Facebook
-  * Face Slim - Unofficial app built around the mobile Facebook site. ([F-Droid](https://f-droid.org/packages/org.indywidualni.fblite/), [Source Code](https://github.com/indywidualny/FaceSlim)] :warning: Connects to Facebook.
+  * Face Slim - Unofficial app built around the mobile Facebook site. ([F-Droid](https://f-droid.org/packages/org.indywidualni.fblite/), [Source Code](https://github.com/indywidualny/FaceSlim)) :warning: Connects to Facebook.
 
 ### Reddit
   * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))
