@@ -94,6 +94,7 @@
   * [Syncthing](https://syncthing.net/) - P2P file synchronization. ([F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/), [Source Code](https://github.com/syncthing/syncthing-android))
 
 ### File Transfer
+  * primitive ftpd - A simple FTP and SFTP (SSH file transfer) server.([F-Droid](https://f-droid.org/packages/org.primftpd/), [Source Code](https://github.com/wolpi/prim-ftpd))
   
 ### Storage Tools
   * DiskUsage - Shows storage usage. ([F-Droid](https://f-droid.org/packages/com.google.android.diskusage/), [Source Code](https://github.com/IvanVolosyuk/diskusage))
