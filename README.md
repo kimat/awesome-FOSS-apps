@@ -6,11 +6,12 @@
     - [SMS](#sms)
     - [E-Mail](#e-mail)
     - [Instant Messaging](#instant-messaging)
-  - [Connecticity](#connectivity)
+  - [Connectivity](#connectivity)
   - [Files](#files)
       - [Backups](#backups)
-      - [File manager](#file-manager)
+      - [File Manager](#file-manager)
       - [File Sync](#file-sync)
+	  - [File Transfer](#file-transfer)
       - [Storage Tools](#storage-tools)
   - [Finance](#finance)
   - [Navigation](#navigation)
@@ -43,6 +44,7 @@
     - [Password management](#password-management)
     - [Two-Factor Auth.](#two-factor-auth)
   - [Social networks](#social-networks)
+	- [Facebook](#facebook)
     - [Reddit](#reddit)
   - [Tools](#tools)
     - [Keyboard](#keyboard)
@@ -83,7 +85,7 @@
  * [DAVDroid](https://davdroid.bitfire.at/) - Synchronize contacts and calendar data with a webdav-supported server ([F-Droid](https://f-droid.org/packages/at.bitfire.davdroid/), [Source Code](https://gitlab.com/bitfireAT/davdroid))
  * oandbackup - Can backup and restore apps. Backups can be encrypted with PGP. Needs root. ([F-Droid](https://f-droid.org/packages/dk.jens.backup/), [Source Code](https://github.com/jensstein/oandbackup))
 
-### File manager
+### File Manager
   * [Amaze](https://plus.google.com/communities/113997576965363268101) - Material design based file manager. - ([F-Droid](https://f-droid.org/packages/com.amaze.filemanager/), [Source Code](https://github.com/arpitkh96/AmazeFileManager))
   * [Ghost Commander](https://sites.google.com/site/ghostcommander1/) - Dual panel file manager, allows for plugins for SMB and FTP ([F-Droid](https://f-droid.org/packages/com.ghostsq.commander/), [Source Code](https://sourceforge.net/p/ghostcommander/code/HEAD/tree/))
   * [Simple File Manager](https://simplemobiletools.github.io/) - A simple file manager for browsing and editing files and directories. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.filemanager), [Source Code](https://github.com/SimpleMobileTools/Simple-File-Manager))
@@ -91,6 +93,9 @@
 ### File Sync
   * [Syncthing](https://syncthing.net/) - P2P file synchronization. ([F-Droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/), [Source Code](https://github.com/syncthing/syncthing-android))
 
+### File Transfer
+  * primitive ftpd - A simple FTP and SFTP (SSH file transfer) server.([F-Droid](https://f-droid.org/packages/org.primftpd/), [Source Code](https://github.com/wolpi/prim-ftpd))
+  
 ### Storage Tools
   * DiskUsage - Shows storage usage. ([F-Droid](https://f-droid.org/packages/com.google.android.diskusage/), [Source Code](https://github.com/IvanVolosyuk/diskusage))
   * SD Scanner - Rescan the storage for new media. ([F-Droid](https://f-droid.org/packages/com.gmail.jerickson314.sdscanner/), [Source Code](https://github.com/jerickson314/sdscanner))
@@ -122,18 +127,21 @@
 ### Photos
   * Camera Roll - Simple Gallery App for Android, with lovely Material Design. ([APK](https://github.com/kollerlukas/Camera-Roll-Android-App/releases), [Source Code](https://github.com/kollerlukas/Camera-Roll-Android-App))
   * [Simple Gallery](https://simplemobiletools.github.io/) - A gallery for viewing photos and videos without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.gallery), [Source Code](https://github.com/SimpleMobileTools/Simple-Gallery))
+  * A Photo Manager - Manage local photos: Find/Copy/Edit-Exif and show in Gallery or Map. ([F-Droid](https://f-droid.org/packages/de.k3b.android.androFotoFinder/), [Source Code](https://github.com/k3b/APhotoManager))
 
 ### Podcasts
    * [AntennaPod](http://antennapod.org/) - Advanced Podcast player. ([F-Droid](https://f-droid.org/packages/de.danoeh.antennapod/), [Source Code](https://github.com/antennapod/AntennaPod))
 
 ### YouTube
   * [NewPipe](https://newpipe.schabi.org/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/org.schabi.newpipe/), [Source Code](https://github.com/TeamNewPipe/NewPipe)) :warning: Connects to Google (YouTube).
+  * [SkyTube](http://skytube-app.com/) - YouTube frontend. ([F-Droid](https://f-droid.org/packages/free.rm.skytube.oss/), [Source Code](https://github.com/ram-on/SkyTube)) :warning: Connects to Google (YouTube).
 
 ## Navigation
 
 ### Maps
   * [MAPS.ME](https://maps.me/) - OpenSteetMap client. ([Source Code](https://github.com/mapsme/omim))
   * [OsmAnd~](http://osmand.net/) - OpenStreetMap client. ([F-Droid](https://f-droid.org/packages/net.osmand.plus/), [Source Code](https://github.com/osmandapp/Osmand))
+  * AddresstoGPS - Search for an address, location, or area using the Google Maps javascript API via AddressToGPS.com to use with other maps apps. ([F-Droid](https://f-droid.org/packages/me.danielbarnett.addresstogps/), [Source Code](https://github.com/DanielBarnett714/AddressToGPS))
   
 ### Public transportation
   * [Transportr](https://transportr.grobox.de/) - Public transport app. ([F-Droid](https://f-droid.org/packages/de.grobox.liberario/), [Source Code](https://github.com/grote/Transportr))
@@ -175,6 +183,8 @@
   * [Simple Notes](https://simplemobiletools.github.io/) - A simple textfield for adding quick notes without ads. ([F-Droid](https://f-droid.org/app/com.simplemobiletools.notes), [Source Code](https://github.com/SimpleMobileTools/Simple-Notes))
   * Swiftnotes - Simple notepad. ([F-Droid](https://f-droid.org/packages/com.moonpi.swiftnotes/), [Source Code](https://github.com/adrianchifor/Swiftnotes))
   * Nextcloud Notes - Client for Nextcloud notes plugins. ([F-Droid](https://f-droid.org/packages/it.niedermann.owncloud.notes/), [Source Code](https://github.com/stefan-niedermann/nextcloud-notes))
+  * Orgzly - Outliner for notes and tasks in plain-text. ([F-Droid](https://f-droid.org/packages/com.orgzly/), [Source Code](https://github.com/orgzly/orgzly-android))
+  * [Standard Notes](https://standardnotes.org/) - Encrypted Cloud-based Notes. Cross-platform. ([APK](https://github.com/standardnotes/mobile/releases), [Source Code](https://github.com/standardnotes/mobile))
 
 ### Tasks
   * OpenTasks - Tasks can be synchronized using DAVDroid. ([F-Droid](https://f-droid.org/packages/org.dmfs.tasks/), [Source Code](https://github.com/dmfs/opentasks))
@@ -187,6 +197,7 @@
 
 ## Privacy
   * [Wi-Fi Privacy Police](http://www.brambonne.com/) - Prevents sending of known Wi-Fi networks. ([F-Droid](https://f-droid.org/packages/be.uhasselt.privacypolice/), [Source Code](https://github.com/BramBonne/privacypolice))
+  * DNS66 - DNS66 allows blocking host names via DNS. ([F-Droid](https://f-droid.org/packages/org.jak_linux.dns66/), [Source Code](https://github.com/julian-klode/dns66))
 
 ## Security
 
@@ -196,6 +207,7 @@
 ### Password management
   * KeePass2Android - Advanced implementation of the KeePass standard on Android. ([APK](https://keepass2android.codeplex.com/releases), [Source Code](https://keepass2android.codeplex.com/))
   * Password Store - Password manager compatible with [pass](http://www.passwordstore.org/). ([F-Droid](https://f-droid.org/packages/com.zeapo.pwdstore/), [Source Code](https://github.com/zeapo/Android-Password-Store))
+  * [KeePassDroid](http://www.keepassdroid.com/) - A password safe, compatible with KeePass. ([F-Droid](https://f-droid.org/packages/com.android.keepass/), [Source Code](https://github.com/bpellin/keepassdroid))
 
 ### Two-Factor Auth.
   * andOTP - Provides TOTP, can backup and restore keys encrypted (PGP or Password). ([F-Droid](https://f-droid.org/packages/org.shadowice.flocke.andotp/), [Source Code](https://github.com/flocke/andOTP))
@@ -205,6 +217,9 @@
   * [AndStatus](http://andstatus.org/) - Low traffic social network client. ([F-Droid](https://f-droid.org/packages/org.andstatus.app/), [Source Code](https://github.com/andstatus/andstatus))
   * [dandelion*](https://diasp.org/people/48b78420923501341ef3782bcb452bd5) - Client for dandelion*. ([F-Droid](https://f-droid.org/packages/com.github.dfa.diaspora_android/), [Source Code](https://github.com/Diaspora-for-Android/dandelion))
   * Twidere - Microblogging / twitter.com client. ([F-Droid](https://f-droid.org/packages/org.mariotaku.twidere/), [Source Code](https://github.com/TwidereProject/Twidere-Android))
+  
+### Facebook
+  * Face Slim - Unofficial app built around the mobile Facebook site. ([F-Droid](https://f-droid.org/packages/org.indywidualni.fblite/), [Source Code](https://github.com/indywidualny/FaceSlim)) :warning: Connects to Facebook.
 
 ### Reddit
   * RedReader - Easy-to-use reddit frontend. ([F-Droid](https://f-droid.org/packages/org.quantumbadger.redreader/), [Source Code](https://github.com/QuantumBadger/RedReader))
@@ -216,7 +231,9 @@
   * [Termux](https://termux.com/) - Terminal emulator, addons available. ([F-Droid](https://f-droid.org/packages/com.termux/), [Source Code](https://github.com/termux/termux-app))
   * TV KILL - Turn off TVs with your Android device's IR-blaster. ([F-Droid](https://f-droid.org/app/com.redirectapps.tvkill), [Source Code](https://github.com/42SK/TVKILL))
   * [WiFiAnalyzer](https://vremsoftwaredevelopment.github.io/WiFiAnalyzer/) - Scans WiFi networks, measuring signal strength and identifying crowded channels in tables and graphs. ([F-Droid](https://f-droid.org/packages/com.vrem.wifianalyzer/), [Source Code](https://github.com/VREMSoftwareDevelopment/WifiAnalyzer))
-
+  * Share to Clipboard - Copy to clipboard straight from the Android "Share" menu. ([F-Droid](https://f-droid.org/packages/com.tengu.sharetoclipboard/), [Source Code](https://github.com/tengusw/share_to_clipboard))
+  * [OctoDroid](https://slapperwan.github.io/gh4a/) - GitHub Client. ([F-Droid](https://f-droid.org/packages/com.gh4a/), [Source Code](https://github.com/slapperwan/gh4a))
+  * [Easer](https://renyuneyun.github.io/Easer/en/) - Easer is an event-driven Android automation app. ([F-Droid](https://f-droid.org/packages/ryey.easer/), [Source Code](https://github.com/renyuneyun/Easer))
 
 ### Keyboard
   * [AnySoftKeyboard](https://anysoftkeyboard.github.io/) - Keyboard with many customization options. ([F-Droid](https://f-droid.org/packages/com.menny.android.anysoftkeyboard/), [Source Code](https://github.com/AnySoftKeyboard/AnySoftKeyboard))
@@ -229,6 +246,7 @@
   * Forecastie - Shows weather information from OpenWeatherMap. ([F-Droid](https://f-droid.org/packages/cz.martykan.forecastie/), [Source Code](https://github.com/martykan/forecastie))
   * Good Weather - Open source weather app for Android. ([F-Droid](https://f-droid.org/repository/browse/?fdid=org.asdtm.goodweather), [Source Code](https://github.com/qqq3/good-weather))
   * Weather - Provides interface for several weather websites. ([F-Droid](https://f-droid.org/packages/de.baumann.weather/), [Source Code](https://github.com/scoute-dich/Weather))
+  * Simple Weather - Shows weather information from OpenWeatherMap. ([F-Droid](https://f-droid.org/packages/com.a5corp.weather/), [Source Code](https://github.com/Sparker0i/Weather))
 
 ## Web Browsing
   * Fennec F-Droid - Rebranded version of Firefox for F-Droid. ([F-Droid](https://f-droid.org/packages/org.mozilla.fennec_fdroid/), [Source Code](http://hg.mozilla.org/))
