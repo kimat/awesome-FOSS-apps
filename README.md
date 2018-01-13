@@ -10,6 +10,8 @@
     - [E-Mail](#e-mail)
     - [Instant Messaging](#instant-messaging)
   - [Connectivity](#connectivity)
+  - [Customization](#customization)
+    - [Icon Packs](#icon-packs)
   - [Files](#files)
       - [Backups](#backups)
       - [File Manager](#file-manager)
@@ -108,6 +110,18 @@
   * [GadgetBridge](https://gadgetbridge.org/) - Use your Pebble/Mi Band/Amazfit Bip/Hplus device without the vendor's closed source application ([F-Droid](https://f-droid.org/packages/nodomain.freeyourgadget.gadgetbridge/), [Source Code](https://github.com/Freeyourgadget/Gadgetbridge))
 
   * [KDE Connect](https://albertvaka.wordpress.com/) - Integrate Android with the KDE Plasma Desktop. ([F-Droid](https://f-droid.org/packages/org.kde.kdeconnect_tp/), [Source Code](https://cgit.kde.org/kdeconnect-android.git/))
+
+
+
+## Customization
+
+### Icon Packs
+
+  * Ameixa - Minimalistic material design icon pack - only apps hosted on F-Droid are supported. ([F-Droid](https://f-droid.org/packages/org.xphnx.ameixa/), [Source Code](https://gitlab.com/xphnx/ameixa))
+
+  * Ameixa Monochrome - Monochrome version of Ameixa - only apps hosted on F-Droid are supported. ([F-Droid](https://f-droid.org/packages/org.xphnx.ameixamonochrome/), [Source Code](https://gitlab.com/xphnx/ameixa-monochrome))
+
+  * ICEcons - Icon pack. ([F-Droid](https://f-droid.org/repository/browse/?fdid=ovh.ice.icecons), [Source Code](https://github.com/1C3/ICEcons))
 
 
 
