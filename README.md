@@ -27,6 +27,7 @@
     - [Audio-/Videoplayer](#audio-videoplayer)
     - [Audiobooks](#audiobooks)
     - [Camera](#camera)
+    - [Comics](#comics)
     - [Games](#games)
     - [Photos](#photos)
     - [Podcasts](#podcasts)
@@ -211,6 +212,12 @@
 ### Camera
 
   * [Open Camera](http://opencamera.sourceforge.net/) - Camera app, provides a lot of settings. ([F-Droid](https://f-droid.org/packages/net.sourceforge.opencamera/), [Source Code](https://sourceforge.net/p/opencamera/code))
+
+
+
+### Comics
+
+  * Easy xkcd - xkcd reader. ([F-Droid](https://f-droid.org/packages/de.tap.easy_xkcd/), [Source Code](https://github.com/T-Rex96/Easy_xkcd))
 
 
 
