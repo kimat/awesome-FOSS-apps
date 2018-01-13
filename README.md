@@ -10,6 +10,9 @@
     - [E-Mail](#e-mail)
     - [Instant Messaging](#instant-messaging)
   - [Connectivity](#connectivity)
+  - [Customization](#customization)
+    - [Icon Packs](#icon-packs)
+    - [Launcher](#launcher)
   - [Files](#files)
       - [Backups](#backups)
       - [File Manager](#file-manager)
@@ -24,6 +27,7 @@
     - [Audio-/Videoplayer](#audio-videoplayer)
     - [Audiobooks](#audiobooks)
     - [Camera](#camera)
+    - [Comics](#comics)
     - [Games](#games)
     - [Photos](#photos)
     - [Podcasts](#podcasts)
@@ -111,6 +115,26 @@
 
 
 
+## Customization
+
+### Icon Packs
+
+  * Ameixa - Minimalistic material design icon pack - only apps hosted on F-Droid are supported. ([F-Droid](https://f-droid.org/packages/org.xphnx.ameixa/), [Source Code](https://gitlab.com/xphnx/ameixa))
+
+  * Ameixa Monochrome - Monochrome version of Ameixa - only apps hosted on F-Droid are supported. ([F-Droid](https://f-droid.org/packages/org.xphnx.ameixamonochrome/), [Source Code](https://gitlab.com/xphnx/ameixa-monochrome))
+
+  * ICEcons - Icon pack. ([F-Droid](https://f-droid.org/repository/browse/?fdid=ovh.ice.icecons), [Source Code](https://github.com/1C3/ICEcons))
+
+### Launcher
+
+  * KISS Launcher - A _very_ minimalistic launcher. ([F-Droid](https://f-droid.org/packages/fr.neamar.kiss/), [Source Code](https://github.com/Neamar/KISS))
+
+  * Open Launcher - Community driven launcher. ([F-Droid](https://f-droid.org/packages/com.benny.openlauncher/), [Source Code](https://github.com/OpenLauncherTeam/openlauncher))
+
+  * T-UI - Text based terminal-like launcher. ([F-Droid](https://f-droid.org/packages/ohi.andre.consolelauncher/), [Source Code](https://github.com/Andre1299/TUI-ConsoleLauncher))
+
+
+
 ## Files
 
 
@@ -188,6 +212,12 @@
 ### Camera
 
   * [Open Camera](http://opencamera.sourceforge.net/) - Camera app, provides a lot of settings. ([F-Droid](https://f-droid.org/packages/net.sourceforge.opencamera/), [Source Code](https://sourceforge.net/p/opencamera/code))
+
+
+
+### Comics
+
+  * Easy xkcd - xkcd reader. ([F-Droid](https://f-droid.org/packages/de.tap.easy_xkcd/), [Source Code](https://github.com/T-Rex96/Easy_xkcd))
 
 
 
